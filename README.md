@@ -34,7 +34,6 @@ fintech, tax technology and regulated financial services are where I am most use
 | **[Syrian Exchange Pro](https://syrianexchangepro.com)** | Currency and financial market tracker for a volatile market. Multi-source rate ingestion with reconciliation. | Python · React Native · REST | Live — iOS &amp; Android |
 | **[Radius Trip](https://radiustrip.com)** | Travel search and itinerary planning by what is actually *reachable* within a radius, not by destination name. | React Native · geospatial · LLM | Live |
 | **[AI Agent Sandbox](https://resume-1g3.pages.dev)** | Multi-agent playground with a live code-generation environment, SSE streaming and routing across model providers. | Cloudflare Workers · streaming LLM APIs | Live |
-| **[ArabicERP](https://github.com/gwarrar/ArabicERP)** | ERP system with first-class Arabic/RTL support. | TypeScript | Public source |
 
 > Most of my production work is private or under NDA and is not published here.
 > I am glad to walk through the architecture and the decisions behind it in an interview.
