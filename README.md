@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
-  <img alt="Gheyath Warrar — Software & AI Engineer, automation, RAG and agentic systems. German , Saarbrücken, available immediately." src="header-light.svg" width="100%">
+  <img alt="Gheyath Warrar — Software & AI Engineer, automation, RAG and agentic systems. Saarbrücken, EU work authorisation, available immediately." src="header-light.svg" width="100%">
 </picture>
 
 <div align="center">
@@ -121,7 +121,7 @@ requires, and what the system has to do about it.
 
 **Open to Senior Software / AI Engineer roles** — Luxembourg · Germany · fully remote · Gulf relocation
 
-No work permit or sponsorship required anywhere in the EU.
+No visa sponsorship required.
 
 [ghyath147@gmail.com](mailto:ghyath147@gmail.com) · [gheyathwarrar.pages.dev](https://gheyathwarrar.pages.dev) · [LinkedIn](https://linkedin.com/in/gheyath-warrar-b2a9932a)
 
