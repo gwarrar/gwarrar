@@ -1,10 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <img alt="Gheyath Warrar — Software & AI Engineer, automation, RAG and agentic systems. German citizen (EU passport), Saarbrücken, available immediately." src="header-light.svg" width="100%">
+</picture>
+
 <div align="center">
-
-# Gheyath Warrar
-
-**Software &amp; AI Engineer — automation, RAG and agentic systems**
-
-German · Saarbrücken, Germany · commutable to Luxembourg · available immediately
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gheyathwarrar.pages.dev-1f3d6b?style=flat-square)](https://gheyathwarrar.pages.dev)
 [![CV](https://img.shields.io/badge/CV-Download%20PDF-1f3d6b?style=flat-square)](https://gheyathwarrar.pages.dev/Gheyath_Warrar_AI_Engineer_EN.pdf)
@@ -12,8 +11,6 @@ German · Saarbrücken, Germany · commutable to Luxembourg · available immedia
 [![Email](https://img.shields.io/badge/Email-ghyath147%40gmail.com-8a1c2b?style=flat-square)](mailto:ghyath147@gmail.com)
 
 </div>
-
----
 
 Eight years of building and shipping production software. Four of them on enterprise
 Java, Spring Boot and Angular at **Meta-Level Software AG**, owning delivery end to end —
@@ -39,12 +36,17 @@ fintech, tax technology and regulated financial services are where I am most use
 | **[AI Agent Sandbox](https://resume-1g3.pages.dev)** | Multi-agent playground with a live code-generation environment, SSE streaming and routing across model providers. | Cloudflare Workers · streaming LLM APIs | Live |
 | **[ArabicERP](https://github.com/gwarrar/ArabicERP)** | ERP system with first-class Arabic/RTL support. | TypeScript | Public source |
 
-> Additional production work for clients is under NDA and not published here.
-> Happy to walk through architecture and decisions in an interview.
+> Most of my production work is private or under NDA and is not published here.
+> I am glad to walk through the architecture and the decisions behind it in an interview.
 
 ---
 
 ## Experience
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="timeline-dark.svg">
+  <img alt="Eight unbroken years: Meta-Level Software AG Sep 2018 to Nov 2022, TaxBox Nov 2022 to Nov 2023, independent Nov 2023 to present." src="timeline-light.svg" width="100%">
+</picture>
 
 | Period | Role | |
 |---|---|---|
@@ -72,11 +74,46 @@ fintech, tax technology and regulated financial services are where I am most use
 
 ---
 
-## How I work
+<details>
+<summary><b>How I work</b> — click to expand</summary>
 
-- Quality enforced in CI, not by convention — coverage floors, linting, type checking, and spec-drift gates that fail the build rather than trusting a reviewer to notice.
-- Architecture and decision records written alongside the code, so the next engineer does not have to reverse-engineer intent.
-- End-to-end ownership: I would rather ship one system I understand completely than five I only partly do.
+<br>
+
+**Quality is enforced in CI, not by convention.** Coverage floors, linting, type checking
+and spec-drift gates that fail the build, rather than trusting a reviewer to notice. In
+Grade Tracker that means pytest with an 85% floor, ruff (pycodestyle, pyflakes, bandit,
+bugbear, pydocstyle), pyright, strict TypeScript, and an OpenAPI drift gate that breaks the
+build when the spec and the implementation disagree.
+
+**Documentation is written alongside the code.** Architecture notes, decision records and
+security guides, so the next engineer does not have to reverse-engineer intent from
+a diff.
+
+**End-to-end ownership.** I would rather ship one system I understand completely than five
+I only partly do — which is why the projects above go from schema to deployment rather
+than stopping at a prototype.
+
+**The domain matters as much as the code.** A finance degree plus a tax platform means I
+can hold both halves of the conversation in a regulated environment: what the rule
+requires, and what the system has to do about it.
+
+</details>
+
+<details>
+<summary><b>Education &amp; languages</b></summary>
+
+<br>
+
+| Years | Qualification |
+|---|---|
+| 2025 — 2026 | **Artificial Intelligence Development (EQF Level 7)** — Münchner Coding Akademie, Munich *(in progress)* |
+| 2012 — 2014 | **M.Sc. Project Management (EQF Level 7)** — International Humanitarian University, Odesa |
+| 2018 | **Certificate, Object-Oriented Software Development** — itAkademie Saarbrücken |
+| 2005 — 2011 | **B.Sc. Finance and Banking** — Al-Baath University, Hama |
+
+**Languages** — Arabic (native) · German (C1) · English (C1) · Russian (B1)
+
+</details>
 
 ---
 
@@ -86,6 +123,6 @@ fintech, tax technology and regulated financial services are where I am most use
 
 No work permit or sponsorship required anywhere in the EU.
 
-📧 [ghyath147@gmail.com](mailto:ghyath147@gmail.com) · 🌐 [gheyathwarrar.pages.dev](https://gheyathwarrar.pages.dev) · 💼 [LinkedIn](https://linkedin.com/in/gheyath-warrar-b2a9932a)
+[ghyath147@gmail.com](mailto:ghyath147@gmail.com) · [gheyathwarrar.pages.dev](https://gheyathwarrar.pages.dev) · [LinkedIn](https://linkedin.com/in/gheyath-warrar-b2a9932a)
 
 </div>
