@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="185" viewBox="0 0 1200 185" role="img" aria-label="Eight unbroken years of engineering: Meta-Level Software AG 2018 to 2022, TaxBox 2022 to 2023, independent 2023 to present">
+<rect width="1200" height="185" fill="#0d1117"/>
+<text x="64" y="34" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#8b949e" letter-spacing="1.5">EIGHT UNBROKEN YEARS OF ENGINEERING — DRAWN TO SCALE</text>
+<rect x="64" y="58" width="558" height="46" fill="#3d444d"/>
+<rect x="622" y="58" width="134" height="46" fill="#a83c46"/>
+<rect x="756" y="58" width="380" height="46" fill="#2f5c9e"/>
+<rect x="64" y="58" width="1072" height="46" fill="none" stroke="#e6edf3" stroke-width="1.5"/>
+<text x="78" y="86" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" letter-spacing=".7">META-LEVEL SOFTWARE AG</text>
+<text x="689.0" y="86" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff">TAXBOX</text>
+<text x="770" y="86" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" letter-spacing=".7">INDEPENDENT</text>
+<g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">
+<text x="64" y="124">2018</text>
+<text x="332.0" y="124" text-anchor="middle">2020</text>
+<text x="600.0" y="124" text-anchor="middle">2022</text>
+<text x="868.0" y="124" text-anchor="middle">2024</text>
+<text x="1136" y="124" text-anchor="end">2026</text>
+</g>
+<g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#b6c2ce">
+<rect x="64" y="142" width="11" height="11" fill="#3d444d"/><text x="83" y="152">Enterprise engineering · 4 yrs 2 mos</text>
+<rect x="364" y="142" width="11" height="11" fill="#a83c46"/><text x="383" y="152">Founded &amp; built · 1 yr</text>
+<rect x="604" y="142" width="11" height="11" fill="#2f5c9e"/><text x="623" y="152">Independent · 2 yrs 10 mos</text>
+</g>
+</svg>
