@@ -4,7 +4,7 @@
 
 **Software &amp; AI Engineer — automation, RAG and agentic systems**
 
-German citizen (EU passport) · Saarbrücken, Germany · commutable to Luxembourg · available immediately
+German · Saarbrücken, Germany · commutable to Luxembourg · available immediately
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gheyathwarrar.pages.dev-1f3d6b?style=flat-square)](https://gheyathwarrar.pages.dev)
 [![CV](https://img.shields.io/badge/CV-Download%20PDF-1f3d6b?style=flat-square)](https://gheyathwarrar.pages.dev/Gheyath_Warrar_AI_Engineer_EN.pdf)
