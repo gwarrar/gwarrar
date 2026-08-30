@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
-  <img alt="Gheyath Warrar — Software & AI Engineer, automation, RAG and agentic systems. German citizen (EU passport), Saarbrücken, available immediately." src="header-light.svg" width="100%">
+  <img alt="Gheyath Warrar — Software & AI Engineer, automation, RAG and agentic systems. German , Saarbrücken, available immediately." src="header-light.svg" width="100%">
 </picture>
 
 <div align="center">
